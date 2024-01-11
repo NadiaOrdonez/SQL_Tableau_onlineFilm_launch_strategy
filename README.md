@@ -1,5 +1,5 @@
 # SQL_onlineFilm_launch_strategy
-This repository serves as a demonstration of the refined SQL syntax applied combined with visuals crafted in Tableau in the context of our comprehensive data analysis project. The analysis presented herein is instrumental in assisting Rockbuster Stealth LLC, a prominent film company, as it formulates a strategic plan for the successful launch of an online video service. 
+This repository serves as a demonstration of the refined SQL syntax applied in combination with visuals crafted in Tableau in the context of a comprehensive data analysis project. The analysis presented herein is instrumental in assisting Rockbuster Stealth LLC, a film company, as it formulates a strategic plan for the successful launch of an online video service [^1]. 
 ## Project Overview
 ### Motivation
 In response to fierce competition from streaming giants like Netflix and Amazon Prime, Rockbuster Stealth is leveraging its extensive film licenses to launch a cutting-edge online video rental service.
@@ -16,12 +16,12 @@ The data-driven insights on customer behavior and sales trends are extracted fro
 ## Database overview
 The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](ERD_database_NadiaOrdonez.png). This illustrates the links between the tables in our relational database. For a detailed description of the tables and how they are linked please refer to the [data dictionary](Data_dictionary_NadiaOrdonez.pdf) 
 ## SQL Syntax
-### Main commands
+### Main SQL commands
 ### Subqueries
 ### CTE
 ### Joints
 ## Visualizations
-After executing SQL queries, we utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. To access the visuals click [here](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes).
+After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. In Tableau, I used dashboards and story features to integrate individuals graphs. To access the visuals click [here](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes).
 ## Main recommendations
 2020 Launch strategy recommendations supported by our data analysis:
 * Stop film licenses for films with none and low sales and instead invest in:
@@ -36,3 +36,4 @@ After executing SQL queries, we utilized Tableau to create compelling visualizat
 * Analyze the strategies and content offerings of competitors in the online video rental space to identify potential tactics that attract new customers.
   
 Details about the project brief summarizing data analyses, business questions and recommendations are saved in the [Rockbuster ppt](Rockbuster_ppt_NadiaOrdonez.pdf) file.
+[^1]: Database provided by CareerFoundry in the Data Analytics program. Data and company details are of fictional nature. 
