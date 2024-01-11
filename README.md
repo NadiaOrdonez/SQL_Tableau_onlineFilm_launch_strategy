@@ -20,8 +20,8 @@ The entity relationship diagram (ERD) for our company database was constructed u
 ### Subqueries
 ### CTE
 ### Joints
-## Visualizations
-After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. In Tableau, I used dashboards and story features to integrate individuals graphs. To access the visuals click [here](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes).
+### Tableau visuals
+After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. Within Tableau, I seamlessly integrated individual graphs using dashboards and story features for a comprehensive presentation. To access the visuals click [here](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes).
 ## Main recommendations
 2020 Launch strategy recommendations supported by our data analysis:
 * Stop film licenses for films with none and low sales and instead invest in:
