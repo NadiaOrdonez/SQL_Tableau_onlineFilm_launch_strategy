@@ -20,7 +20,7 @@ The entity relationship diagram (ERD) for our company database was constructed u
   * Statistical descriptions were achieved using main SQL commands in combination with aggregations and operators, e.g. [see Data Overview](Data_overview_NadiaOrdonez.md).
 * Subqueries & CTE
   * A CTE was created and applied in the `FROM` command in the [Data overview](Data_overview_NadiaOrdonez.md) file. 
-  * Subqueries and CTEs were applied to answer business questions 4 and 5, see [Business questions](Business_questions_NadiaOrdonez.md) file.  
+  * Subqueries and CTEs were applied to answer business questions 4 and 5 in the `FROM` and `WHERE` command , see [Business questions](Business_questions_NadiaOrdonez.md) file.  
 * Create tables
   * A continent table was created to address business question 5 about sales per geographic region, see [Business questions](Business_questions_NadiaOrdonez.md) file.   
 * Joints
