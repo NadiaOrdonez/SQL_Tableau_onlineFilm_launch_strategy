@@ -15,15 +15,21 @@ Address business questions posed by the Rockbuster Stealth Management Board, gui
 The data-driven insights on customer behavior and sales trends are extracted from the current company database and will aid in shaping the 2020 launch strategy for an online service.
 ## Database overview
 The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](ERD_database_NadiaOrdonez.png). This illustrates the links between the tables in our relational database. For a detailed description of the tables and how they are linked please refer to the [data dictionary](Data_dictionary_NadiaOrdonez.pdf) 
-## SQL Syntax
-### Main SQL commands
-### Subqueries
-### CTE
-### Joints
-### Tableau visuals
+## SQL commands
+* Main SQL syntax
+  * Statistical descriptions were achieved using main SQL commands in combination with aggregations and operators, e.g. [see Data Overview](Data_overview_NadiaOrdonez.md).
+* Subqueries & CTE
+  * Subqueries and CTE were applied to answer business questions 4 and 5, see [Business questions](Business_questions_NadiaOrdonez.md) file.  
+* Create tables
+  * A continent table was created to address business question 5 about sales per geographic region, see [Business questions](Business_questions_NadiaOrdonez.md) file.   
+* Joints
+  * The joints commands were frequently used to address [business questions](Business_questions_NadiaOrdonez.md) as well as in the [data overview](Data_overview_NadiaOrdonez.md) analyses.
+
+ChatGPT 3.5 was used to facilitate and speed the data analysis process. 
+## Tableau visuals
 After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. Within Tableau, I seamlessly integrated individual graphs using dashboards and story features for a comprehensive presentation. To access the visuals click [here](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes).
-## Main recommendations
-2020 Launch strategy recommendations supported by our data analysis:
+## Launch strategy recommendations 
+These recommendations are supported by our data analysis process.
 * Stop film licenses for films with none and low sales and instead invest in:
   * High-selling films:
     * Top 3 categories: Drama, New, Games
