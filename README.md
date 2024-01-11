@@ -8,3 +8,4 @@ Address business questions posed by the Rockbuster Stealth Management Board, gui
 ### Scope
 The data-driven insights on customer behavior and sales trends are extracted from the current company database and will aid in shaping the 2020 launch strategy for an online service.
 ## Database overview
+The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](/Database ERD map.2). This illustrates the links between the tables in a relational database
