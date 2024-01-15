@@ -14,7 +14,7 @@ Address business questions posed by the Rockbuster Stealth Management Board, gui
 ### Scope
 The data-driven insights on customer behavior and sales trends are extracted from the company database and will aid in shaping the 2020 launch strategy for an online service.
 ## Database overview
-The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](ERD_database_NadiaOrdonez.png). This illustrates the links between the tables in our available relational database used for the data analysis. A detailed description of the tables, primary keys, foreigner keys and how our tables are linked please refer to the [data dictionary](Data_dictionary_NadiaOrdonez.pdf) 
+The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](ERD_database_NadiaOrdonez.png). This illustrates the links between the tables in our available relational database used for the data analysis. A detailed description of the tables, primary keys, foreign keys and how our tables are linked please refer to the [data dictionary](Data_dictionary_NadiaOrdonez.pdf) 
 ## SQL commands
 * Main SQL syntax
   * Statistical descriptions were achieved using main SQL commands in combination with aggregations and operators, e.g. [see Data Overview](Data_overview_NadiaOrdonez.md).
@@ -36,10 +36,12 @@ Details about the project brief summarizing the data analyses, business question
     * Top 3 categories: Drama, New, Games
     * Top rating: PG-13
     * Top 3 actors: Gina Degeneres, Matthew Carrey, and Mary Kaitel
-  * Consider including more thrillers to offer a well-balanced mix of categories.
-* The Asia market has high customer engagement and sales, making it a prime candidate for a pilot online video rental service launch.
-* Analyze customer film views at the country/customer level to satisfy their preferences.
+  * Consider including more thriller films to offer a well-balanced mix of categories.
+* The Asia market has a high customer engagement and sales, making it a prime candidate for a pilot online video rental service launch.
+* Analyze customer film views at the country/customer level to satisfy their film preferences.
 * Explore how the popularity of certain types of content (categories, ratings, actors, etc.) changes over time after our launch strategy to align our film content acquisition strategy accordingly.
 * Analyze the strategies and content offerings of competitors in the online video rental space to identify potential tactics that attract new customers.
+## Project timeline
+This data analysis project was completed within 5 days, using tools such as PostgreSQL, Tableau, PPT and Word. 
   
 [^1]: Database provided by CareerFoundry in the Data Analytics program. Data and company details are of fictional nature. 
