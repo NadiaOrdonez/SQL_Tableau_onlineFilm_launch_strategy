@@ -42,6 +42,6 @@ Details about the project brief summarizing the data analyses, business question
 * Explore how the popularity of certain types of content (categories, ratings, actors, etc.) changes over time after our launch strategy to align our film content acquisition strategy accordingly.
 * Analyze the strategies and content offerings of competitors in the online video rental space to identify potential tactics that attract new customers.
 ## Project timeline
-This data analysis project was completed within 5 days, using tools such as PostgreSQL, Tableau, PPT and Word. 
+This data analysis project was completed within 6 days, using tools such as PostgreSQL, Tableau, PPT and Word. 
   
 [^1]: Database provided by CareerFoundry in the Data Analytics program. Data and company details are of fictional nature. 
