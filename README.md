@@ -28,7 +28,7 @@ The entity relationship diagram (ERD) for our company database was constructed u
 
 ChatGPT 3.5 was used to facilitate and speed the data analysis process. 
 ## Tableau visuals
-After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. Within Tableau, I seamlessly integrated individual graphs using dashboards and story features for a comprehensive presentation. Use this [linkk](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes) to access the visuals.
+After executing SQL queries, I utilized Tableau to create compelling visualizations that not only illustrate our findings but also provide robust support for the recommendations outlined in our launch strategy. Within Tableau, I seamlessly integrated individual graphs using dashboards and story features for a comprehensive presentation. Use this [link](https://public.tableau.com/app/profile/nadia.ordonez/viz/Rockbuster_tableau/Rockbusterdataanalyses?publish=yes) to access the visuals.
 ## Launch strategy recommendations 
 Details about the project brief summarizing the data analyses, business questions and recommendations are compiled in the [Rockbuster ppt](Rockbuster_ppt_NadiaOrdonez.pdf) file. These recommendations are supported by our data analysis process.
 * Stop film licenses for films with none and low sales and instead invest in:
