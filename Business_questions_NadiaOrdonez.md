@@ -269,7 +269,6 @@ WITH ContinentFilmCounts AS (
     INNER JOIN inventory I ON R.inventory_id = I.inventory_id
     INNER JOIN film_category FC ON I.film_id = FC.film_id
     INNER JOIN category C ON FC.category_id = C.category_id
-    INNER JOIN film FLM ON I.film_id = FLM.film_id
     INNER JOIN customer CUST ON R.customer_id = CUST.customer_id
     INNER JOIN address A ON CUST.address_id = A.address_id
     INNER JOIN city CTY ON A.city_id = CTY.city_id
