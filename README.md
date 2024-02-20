@@ -15,6 +15,7 @@ Address business questions posed by the Rockbuster Stealth Management Board, gui
 The data-driven insights on customer behavior and sales trends are extracted from the company database and will aid in shaping the 2020 launch strategy for an online service.
 ## Database overview
 The entity relationship diagram (ERD) for our company database was constructed using DbVisualiser [see ERD](ERD_database_NadiaOrdonez.png). This illustrates the links between the tables in our available relational database used for the data analysis. A detailed description of the tables, primary keys, foreign keys and how our tables are linked please refer to the [data dictionary](Data_dictionary_NadiaOrdonez.pdf) 
+![ERD](ERD_database_NadiaOrdonez.png)
 ## SQL commands
 * Main SQL syntax
   * Statistical descriptions were achieved using main SQL commands in combination with aggregations and operators, e.g. [see Data Overview](Data_overview_NadiaOrdonez.md).
