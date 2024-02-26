@@ -4,7 +4,7 @@ This repository serves as a demonstration of the refined SQL syntax applied in c
 ### Motivation
 In response to fierce competition from streaming giants like Netflix and Amazon Prime, Rockbuster Stealth is leveraging its extensive film licenses to launch a cutting-edge online video rental service.
 ### Objective
-Address business questions posed by the Rockbuster Stealth Management Board, guiding the 2020 launch company strategy. This includes customer demographics, film preferences, and sales figures.
+Address business questions posed by the Rockbuster Stealth Management Board, guiding the 2020 company online launch strategy. The business questions include customer demographics, film preferences, and sales figures of the current company status.
 #### Business questions 
 1. Which films contributed the most/least to sales?
 2. What was the average rental duration for all films?
